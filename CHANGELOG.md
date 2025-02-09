@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-02-09)
+
+<section class="features">
+
+### Features
+
+-   [`267ba17`](https://github.com/stdlib-js/stdlib/commit/267ba17121461b7cb1e8ddbc963b107319d38ebe) - add C implementation for `stats/base/dists/chisquare/kurtosis` [(#4592)](https://github.com/stdlib-js/stdlib/pull/4592)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3502](https://github.com/stdlib-js/stdlib/issues/3502)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,8 @@
 
 <details>
 
+-   [`267ba17`](https://github.com/stdlib-js/stdlib/commit/267ba17121461b7cb1e8ddbc963b107319d38ebe) - **feat:** add C implementation for `stats/base/dists/chisquare/kurtosis` [(#4592)](https://github.com/stdlib-js/stdlib/pull/4592) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
+-   [`02b9077`](https://github.com/stdlib-js/stdlib/commit/02b907765ad6a6ebcc884f16f2128475ab866814) - **bench:** refactor random number generation in `stats/base/dists/chisquare` [(#4860)](https://github.com/stdlib-js/stdlib/pull/4860) _(by Karan Anand)_
 -   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +48,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
